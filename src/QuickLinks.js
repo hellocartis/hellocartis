@@ -19,7 +19,7 @@ export default function QuickLinks() {
             <Link 
                 component="button"
                 onClick={()=> {
-                    window.open("http://www.google.com/");
+                    window.open("https://www.linkedin.com/in/curtislokhangliu/");
                 }}
             >
                 <Tooltip title="LinkedIn">
@@ -45,7 +45,7 @@ export default function QuickLinks() {
             <Link 
                 component="button"
                 onClick={()=> {
-                    window.open("http://www.instagram.com/hellocartis/");
+                    window.open("https://github.com/hellocartis");
                 }}
             >
                 <Tooltip title="WIP:Github">
